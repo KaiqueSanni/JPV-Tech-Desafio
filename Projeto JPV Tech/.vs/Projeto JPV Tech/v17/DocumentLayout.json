@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaique\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\Projeto JPV Tech\\Projeto JPV Tech\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AE7238B-D044-48D5-AFC5-24353B729BA3}|Projeto JPV Tech\\Projeto JPV Tech.csproj|c:\\users\\kaique\\onedrive - senac - sp\\\u00E1rea de trabalho\\projeto jpv tech\\projeto jpv tech\\projeto jpv tech\\cadastrodepessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AE7238B-D044-48D5-AFC5-24353B729BA3}|Projeto JPV Tech\\Projeto JPV Tech.csproj|solutionrelative:projeto jpv tech\\cadastrodepessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastroDePessoas.cs",
+              "DocumentMoniker": "C:\\Users\\Kaique\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\Projeto JPV Tech\\Projeto JPV Tech\\Projeto JPV Tech\\CadastroDePessoas.cs",
+              "RelativeDocumentMoniker": "Projeto JPV Tech\\CadastroDePessoas.cs",
+              "ToolTip": "C:\\Users\\Kaique\\OneDrive - SENAC - SP\\\u00C1rea de Trabalho\\Projeto JPV Tech\\Projeto JPV Tech\\Projeto JPV Tech\\CadastroDePessoas.cs",
+              "RelativeToolTip": "Projeto JPV Tech\\CadastroDePessoas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:17:16.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
